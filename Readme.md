@@ -1,32 +1,37 @@
-Project Name
-### Akan-Names
+###  Project Name
 
-Author
-### Emmyn5600
+Akan-Names
 
-Project Description
-### This project is a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name.
+### Author
 
-Screenshoot
-### 
-image/screenshot.png
+ Emmyn5600
 
-Live Page
+###  Project Description
 
-### https://emmyn5600.github.io/filtering-the-dates/
+This project is a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name.
 
-Installation / Setup instruction
+### Screenshoot
+![Akan names](https://github.com/Emmyn5600/filtering-the-dates/image/screenshot.PNG)
+
+### Live Page
+
+https://emmyn5600.github.io/filtering-the-dates/
+
+### Installation / Setup instruction
 
 .Open Terminal {CTRL+ALT+T}
+
 .Git clone https://github.com/Emmyn5600/filtering-the-dates.git
+
 .cd filtering-the-dates
+
 .Start coding based on your editor
 
-Technologies Used
+### Technologies Used
 
-### HTML5
-### CSS&CSS3
-### Javascript Vanilla
+HTML5
+CSS&CSS3
+Javascript Vanilla
 
 ### BDD
 
