@@ -197,4 +197,3 @@ function findName() {
   getGender();
 }
 
-document.getElementById("demo").innerHTML = TheInnerHTML;
